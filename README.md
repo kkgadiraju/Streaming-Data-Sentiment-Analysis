@@ -2,7 +2,8 @@
 ---
 #####Software : `Java-7, R-3.1.0, `
 #####OS : `Ubuntu 12.04 (Linux 3.2.0-58-generic)`
-##### Team : `Abhishek Agrawal(akagrawa), Karthik Krishna Gadiraju(kgadira), Nirmesh Khandelwal(nbkhande), Nisarg Gandhi(ndgandh2), Rohit Arora( rarora4)`
+##### Team : `Abhishek Agrawal(akagrawa-at-ncsu-dot-edu), Karthik Krishna Gadiraju(kgadira-at-ncsu-dot-edu), Nirmesh Khandelwal(nbkhande-at-ncsu-dot-edu), Nisarg Gandhi(ndgandh2-at-ncsu-dot-edu), Rohit Arora( rarora4-at-ncsu-dot-edu)`
+
  ---
 ### Installation Guide 
 
